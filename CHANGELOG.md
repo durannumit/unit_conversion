@@ -2,3 +2,7 @@
 
 * Initial version
 
+## [0.1.1] - 2019 - 10 - 16
+
+* Optimize codes and comments
+

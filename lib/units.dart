@@ -1,6 +1,8 @@
 import 'dart:math' as math;
 
-class Units{
+class Units {
+
+  // final unit values
   static double twoPi = 2.0 * math.pi;
   static double totalDegrees = 360.0;
   static double atmospherePascals = 101325.0;
