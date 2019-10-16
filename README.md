@@ -1,14 +1,32 @@
-# unit_conversion
+<h1 align="center">unit_conversion</h1>
 
-A new Flutter package.
+<div align="center">
 
-## Getting Started
+A handy Flutter package for converting between quantities in different units.
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
+[![Follow on Twitter](https://img.shields.io/twitter/follow/flutterist?label=Follow%20flutterist)](https://twitter.com/flutterist)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+</div>
+
+## Using
+
+Import the library:
+
+```dart
+import 'unit_conversion.dart';
+```
+
+You can use this converter to convert between the units. For example:
+
+```dart
+var celcius = UnitConverter.FahrenheitToCelsius(32.0);
+print(celcius);
+```
+
+## Contributing
+
+All contributions are welcome!
+
+## License
+
+This project is licensed under the terms of the [MIT license](/LICENSE).
