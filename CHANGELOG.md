@@ -6,3 +6,8 @@
 
 * Optimize codes and comments
 
+## [0.1.2] - 2019 - 10 - 16
+
+* Make some variables final
+
+

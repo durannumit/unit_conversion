@@ -5,6 +5,11 @@ import 'dart:math' as math;
 
 class UnitConverter {
 
+  /// This library is created for doing conversations much more easier.
+  /// More conversations will add.
+  /// PR's are welcome.
+
+
   // fahrenheitToCelsius conversion
   static double fahrenheitToCelsius(double fahrenheit) =>
       (fahrenheit - 32.0) / 1.8;
