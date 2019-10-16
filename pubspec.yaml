@@ -1,8 +1,8 @@
 name: unit_conversion
 description: A handy Flutter package for converting between quantities in different units.
 version: 0.1.0
-author:
-homepage:
+author: Ümit Duran <durannumit@gmail.com>
+homepage: https://github.com/durannumit/unit_conversion.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
