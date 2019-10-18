@@ -10,4 +10,7 @@
 
 * Make some variables final
 
+## [0.1.3] - 2019 - 10 - 18
+
+* Readme and optimization
 

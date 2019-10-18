@@ -22,10 +22,35 @@ You can use this converter to convert between the units. For example:
 var celcius = UnitConverter.FahrenheitToCelsius(32.0);
 print(celcius);
 ```
+## Features
+
+ * fahrenheitToCelsius
+ * celsiusToFahrenheit
+ * celsiusToKelvin 
+ * kelvinToCelsius 
+ * milesToMeters 
+ * milesToKilometers 
+ * kilometersToMiles 
+ * degreesToRadians 
+ * radiansToDegrees 
+ * degreesPerSecondToRadiansPerSecond 
+ * radiansPerSecondToDegreesPerSecond 
+ * degreesPerSecondToHertz 
+ * radiansPerSecondToHertz 
+ * hertzToDegreesPerSecond 
+ * hertzToRadiansPerSecond 
+ * kilopascalsToHectopascals 
+ * hectopascalsToKilopascals 
+ * kilopascalsToPascals 
+ * hectopascalsToPascals 
+ * atmospheresToPascals 
+ * pascalsToAtmospheres 
+ * coordinatesToMiles 
+ * coordinatesToKilometers 
 
 ## Contributing
 
-All contributions are welcome!
+All contributions are welcome! New conversations will add
 
 ## License
 
